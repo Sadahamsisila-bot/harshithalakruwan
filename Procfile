@@ -1,1 +1,1 @@
-web: gunicorn CricGFG:app
+web: gunicorn cricgfg:app
